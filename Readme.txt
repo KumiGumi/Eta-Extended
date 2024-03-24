@@ -1,0 +1,1 @@
+This is an extention of the ETA project. It's swapping to claude opus for various reasons and we're writing it to not run through discord but as local as possible. The features of this for now will be chat bot abilities and vision capabilities.
